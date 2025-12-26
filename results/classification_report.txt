@@ -1,0 +1,20 @@
+FINAL MODEL - CLASSIFICATION REPORT
+======================================================================
+
+                 precision    recall  f1-score   support
+
+commercial unit       0.97      0.90      0.94       290
+           flat       0.96      0.93      0.94       970
+    houseorplot       0.88      0.90      0.89       802
+     landparcel       0.82      0.83      0.83       260
+         others       0.78      0.85      0.81       359
+
+       accuracy                           0.90      2681
+      macro avg       0.88      0.88      0.88      2681
+   weighted avg       0.90      0.90      0.90      2681
+
+
+OVERALL METRICS:
+  Accuracy:    0.8978
+  Macro F1:    0.8823
+  Weighted F1: 0.8988
